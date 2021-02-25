@@ -1,4 +1,6 @@
-## GitHub Student Developer Pack Pro (menggunakan akun github email ipb):
+## Pertemuan-2: Project Preferences
+
+### GitHub Student Developer Pack Pro (menggunakan akun github email ipb):
 
 * **Aktivasi GitHub Pro**: https://education.github.com/students
 * **Canva**: https://www.canva.com/education/github/
