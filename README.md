@@ -7,6 +7,6 @@ Mata kuliah ini membahas pentingnya rekayasa perangkat lunak, definisi perangkat
 Setelah mengikuti matakuliah ini, mahasiswa diharapkan mampu mengembangkan perangkat lunak secara sistematis dan terukur dengan mengimplementasikan metode-metode pengembangan perangkat lunak yang klasik maupun terkini.
 
 ### Daftar Isi
-1. [Overview dan Pembagian Kelompok]()
-2. [Project Preference]()
+1. [Overview dan Pembagian Kelompok](Pertemuan-1)
+2. [Project Preference](Pertemuan-2)
 3. [Project Management Board]()
