@@ -9,4 +9,4 @@ Setelah mengikuti matakuliah ini, mahasiswa diharapkan mampu mengembangkan peran
 ### Daftar Isi
 1. [Overview dan Pembagian Kelompok](Pertemuan-1)
 2. [Project Preference](Pertemuan-2)
-3. [Project Management Board]()
+3. [Project Management Board](Pertemuan-3)
