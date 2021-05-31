@@ -1,10 +1,13 @@
 ## Laporan akhir projek
-- Paralel, Kelompok, Nama Asisten Praktikum
+- Nama sistem, Paralel, Kelompok, Nama Asisten Praktikum
 - Nama anggota kelompok dan masing-masing role
 - Deskripsi singkat aplikasi
 - User analysis 
   * User story
 - Spesifikasi teknis lingkungan pengembangan
+  * Software
+  * Hardware
+  * Tech Stack
 - Hasil dan pembahasan 
   * Use case diagram 
   * Activity diagram 
